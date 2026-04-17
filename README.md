@@ -36,9 +36,11 @@ This project focuses on analyzing student data using Microsoft Excel. It demonst
 
 ## 📸 Screenshots
 
-Project screenshots are available in the `screenshots` folder:
+Project screenshots are available in the `Screenshots` folder:
 
 * `1.png` – Dashboard Overview
+(1)[Screenshots/1.png]
+  
 * `2.png` – Student Performance Analysis
 
 ---
